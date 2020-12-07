@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Bug 反馈
+name: Bug 反馈
+about: 功能运行不正常 / 失效
 
 ---
 <!-- 发布后默认您已阅读发贴须知 -->

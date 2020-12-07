@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: 功能建议
+name: 功能建议
+about: 关于新功能的想法 / 现有功能的改进
 
 ---
 <!-- 发布后默认您已阅读发贴须知 -->
